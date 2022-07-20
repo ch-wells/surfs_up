@@ -6,9 +6,9 @@ The purpose of this project is to analyze weather data for June and December in 
 ## Results
 
 ### June data
-![]("resources/june_stats.png")
+![](resources/june_stats.png)
 
-![]("resources/dec_stats.png")
+![](resources/dec_stats.png)
 
 ### December data
 
