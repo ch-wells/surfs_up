@@ -8,9 +8,8 @@ The purpose of this project is to analyze weather data for June and December in 
 ### June data
 ![](resources/june_stats.png)
 
-![](resources/dec_stats.png)
-
 ### December data
+![](resources/dec_stats.png)
 
 After reviewing the weather data we can reach the following conclusions:
 * June's data shows there would be no problem for this time of year.  With a mean and median of 75 degrees, the weather is suitable for this type of business.
