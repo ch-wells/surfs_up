@@ -17,4 +17,4 @@ After reviewing the weather data we can reach the following conclusions:
 * However, the min temperature is 56 which is likely too cool for surfing.  With 50% of temperatures sinking below the 70 degree mark, December would not be as busy of a month as June.
 
 ## Summary
-If the surf shop can perform well in the summer season to offset the slower winter months, a surf shop may be sustainable year round.  Further queries could take other weather patterns--like rain--into consideration.  An additional area of analysis might also be conisder the change of season's affect on the tides.
+If the surf shop can perform well in the summer season to offset the slower winter months, a surf shop may be sustainable year round.  Further queries could take other weather patterns--like rain--into consideration.  An additional area of analysis might also be to consider the change of season's affect on the tides.
